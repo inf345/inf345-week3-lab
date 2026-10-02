@@ -1,0 +1,5 @@
+# Copy this file to projects/<your-github-username>.yml and fill it in.
+# One file per student. Do not edit anyone else's.
+repo: https://github.com/ad-995/devops-project
+language: java
+what: the default (will change for next milestones if possible)
