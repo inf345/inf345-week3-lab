@@ -1,0 +1,3 @@
+repo: https://github.com/berikbp/modelgate
+language: python
+what: A unified HTTP gateway for AI model inference
