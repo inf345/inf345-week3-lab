@@ -1,0 +1,3 @@
+repo: https://github.com/Nurssult/Service
+language: java
+what: A small HTTP service built with Java and Spring Boot
