@@ -1,0 +1,3 @@
+   repo: https://github.com/02dastan/devOps-service
+   language: python
+   what: A small notes API with health and time endpoints
